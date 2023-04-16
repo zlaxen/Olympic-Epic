@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330025479608",
+    "project_id": "olympic-epic",
+    "storage_bucket": "olympic-epic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330025479608:android:44322a592443b1effa334d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.OlymGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330025479608-peqonqmp81mfqsa2oo68fj3f2njcdj53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_ASNlMuYcLSw2bDke76OwoQUI8tYaVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330025479608-peqonqmp81mfqsa2oo68fj3f2njcdj53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
